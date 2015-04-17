@@ -1,0 +1,44 @@
+.header{
+    width:100%;
+    background-color:dimgrey;
+    height:40px;
+    position:fixed;
+    display:block;
+    top:0;
+    left:0;
+}
+.menu {
+    color:white;
+    font-weight:bold;
+}
+.logo {
+    font-size:40px;
+    margin: px;
+}
+
+.logo_bar {
+    margin: 10 inherit;
+}
+
+.one {
+    height:350px;
+    width:350px;
+    display:inline-block;
+    background-color:darkblue;
+}
+    
+.block_center {
+    display:inline-block;
+    color:blue;
+    
+}
+.block_long {
+        width:100%;
+    background-color:brown;
+    height:250px;
+    position:absolute;
+    display:block;
+}
+    
+    
+    

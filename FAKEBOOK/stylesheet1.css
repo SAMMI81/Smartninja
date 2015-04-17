@@ -1,0 +1,67 @@
+header {
+    display:block;
+    position:static;
+    width:1250px;
+    height:80px;
+    background-color: darkblue;
+    font-family:impact;
+    font-size:18px;
+    color:white;
+    border-radius:1px;
+}
+.photobackground {
+    display:block;
+    border-radius:1px;
+    width:1250px; 
+    height:400px;
+}
+.profilephoto {
+    margin: -220px 10px 80px 10px; 
+    position:absolute;
+    width:150px;
+    height:150px;    
+}
+ .name {
+    color:white;
+    position:absolute;
+    font-family: cursive;
+    font-size:50px;
+    margin: -65px 100px 0px 0px; 
+ }
+.like {
+    margin:-50px 20px 10px 1150px;
+    position:absolute;
+    color:white;
+    background-color:skyblue;
+    width:50px;
+    height:40px;
+    font-family:cursive;
+    font-size:16px;
+}
+#about {
+    color: aqua;
+    font-family: fantasy;
+    font-size: 30px;
+    margin: 25px 100px 0px 25px;
+}
+.info {
+    color:bisque;
+}
+#inter {
+    color: aqua;
+    font-family: fantasy;
+    font-size: 30px;
+    margin: 25px 100px 0px 25px;
+}
+.hob {
+    color:bisque;
+}
+
+
+    
+    
+
+
+
+    
+    
